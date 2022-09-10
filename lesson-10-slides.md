@@ -115,3 +115,21 @@ We'll perform these steps:
 __INSTRUCTOR NOTES__: 
 
 
+
+<hr>
+
+__SLIDE NUMBER__: 7
+
+__TYPE__: live
+
+__TITLE__: Explore the starter code
+
+What's been done for you:
+
+- Functions to create/view directories and files.
+- A main application loop that allows users to create/view directories and files.
+- Stubbed-out conditional statements for creating a zip archive (a downloadable folder), and removing/renaming directories
+
+__INSTRUCTOR NOTES__: 
+
+
