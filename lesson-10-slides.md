@@ -21,9 +21,7 @@ __TYPE__: announcement
 
 __TITLE__: 
 
-![]()
-
-[https://docs.google.com/presentation/d/1BIL6LW6m9J29suSvDllMGd1ZtFWMz-kaL2OkMRX-MNE/present?slide=id.g118a4dbf044_1_0](https://docs.google.com/presentation/d/1BIL6LW6m9J29suSvDllMGd1ZtFWMz-kaL2OkMRX-MNE/present?slide=id.g118a4dbf044_1_0)
+![](https://github.com/daniel-schroeder-dev/cwhq-slides-test/blob/main/announcement-slide.png)
 
 __INSTRUCTOR NOTES__: 
 
