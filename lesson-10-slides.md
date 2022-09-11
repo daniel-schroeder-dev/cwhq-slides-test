@@ -162,7 +162,7 @@ __TYPE__: output
 
 __TITLE__: Allowing users to download the contents of a directory
 
-![](https://github.com/daniel-schroeder-dev/cwhq-p13/blob/main/lesson-10/outline/exercise-1-output.png)
+![](https://github.com/daniel-schroeder-dev/cwhq-slides-test/blob/main/exercise-1-output.png)
 
 __INSTRUCTOR NOTES__: 
 
