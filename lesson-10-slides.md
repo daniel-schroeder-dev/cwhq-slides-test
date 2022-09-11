@@ -153,3 +153,17 @@ Do you think there's a way to create a ZIP file using Python?
 __INSTRUCTOR NOTES__: 
 
 
+
+<hr>
+
+__SLIDE NUMBER__: 9
+
+__TYPE__: output
+
+__TITLE__: Allowing users to download the contents of a directory
+
+![](https://github.com/daniel-schroeder-dev/cwhq-slides-test/blob/main/dropbox-download.gif)
+
+__INSTRUCTOR NOTES__: 
+
+
