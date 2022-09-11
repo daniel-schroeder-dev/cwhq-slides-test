@@ -133,3 +133,23 @@ What's been done for you:
 __INSTRUCTOR NOTES__: 
 
 
+
+<hr>
+
+__SLIDE NUMBER__: 8
+
+__TYPE__: explore
+
+__TITLE__: Downloading ZIP Files
+
+If you've ever used Dropbox or Google Drive, you'll notice downloading an entire directory produces a ZIP file.
+
+ZIP files (also referred to as ZIP archives) are compressed versions of a file or entire folder that save space when transferring the contents between computers.
+
+Do you think there's a way to create a ZIP file using Python?
+
+![](https://github.com/daniel-schroeder-dev/cwhq-slides-test/blob/main/dropbox-download.gif)
+
+__INSTRUCTOR NOTES__: 
+
+
